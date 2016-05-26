@@ -14,6 +14,7 @@
 		CE12FE701CF41CDE00C4F04A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE12FE6E1CF41CDE00C4F04A /* LaunchScreen.storyboard */; };
 		CE2F63201CF68210007AA01C /* csv.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2F631F1CF68210007AA01C /* csv.swift */; };
 		CE2F63231CF69F04007AA01C /* Pokemon.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE2F63221CF69F04007AA01C /* Pokemon.ttf */; };
+		CE2F63251CF6A449007AA01C /* music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CE2F63241CF6A449007AA01C /* music.mp3 */; };
 		CEB426691CF4215400BCCBF3 /* Pokemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB426681CF4215400BCCBF3 /* Pokemon.swift */; };
 		CEB4266E1CF42BB900BCCBF3 /* PokeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB4266D1CF42BB900BCCBF3 /* PokeCell.swift */; };
 		CEC5A28C1CF64E110036A0DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEC5A28B1CF64E110036A0DB /* Assets.xcassets */; };
@@ -30,6 +31,7 @@
 		CE12FE711CF41CDE00C4F04A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CE2F631F1CF68210007AA01C /* csv.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = csv.swift; sourceTree = "<group>"; };
 		CE2F63221CF69F04007AA01C /* Pokemon.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Pokemon.ttf; sourceTree = "<group>"; };
+		CE2F63241CF6A449007AA01C /* music.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = music.mp3; sourceTree = "<group>"; };
 		CEB426681CF4215400BCCBF3 /* Pokemon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Pokemon.swift; sourceTree = "<group>"; };
 		CEB4266D1CF42BB900BCCBF3 /* PokeCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PokeCell.swift; sourceTree = "<group>"; };
 		CEC5A28B1CF64E110036A0DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 		CE2F63211CF69EE3007AA01C /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				CE2F63241CF6A449007AA01C /* music.mp3 */,
 				CED96FFC1CF42005008009B2 /* pokemon.csv */,
 				CE2F63221CF69F04007AA01C /* Pokemon.ttf */,
 			);
@@ -183,6 +186,7 @@
 			files = (
 				CE2F63231CF69F04007AA01C /* Pokemon.ttf in Resources */,
 				CE12FE701CF41CDE00C4F04A /* LaunchScreen.storyboard in Resources */,
+				CE2F63251CF6A449007AA01C /* music.mp3 in Resources */,
 				CED96FFD1CF42005008009B2 /* pokemon.csv in Resources */,
 				CEC5A28C1CF64E110036A0DB /* Assets.xcassets in Resources */,
 				CE12FE681CF41CDE00C4F04A /* Main.storyboard in Resources */,
